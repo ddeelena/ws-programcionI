@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios/Ejercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ws-programacion1.iml" filepath="$PROJECT_DIR$/ws-programacion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-project/first-project.iml" filepath="$PROJECT_DIR$/first-project/first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicaArreglos/practicaArreglos.iml" filepath="$PROJECT_DIR$/practicaArreglos/practicaArreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primer-proyecto/primer-proyecto.iml" filepath="$PROJECT_DIR$/primer-proyecto/primer-proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace-pg1.iml" filepath="$PROJECT_DIR$/.idea/workspace-pg1.iml" />
     </modules>
   </component>
 </project>
