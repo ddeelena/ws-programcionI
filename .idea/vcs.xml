@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalProyect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hilos-completableFuture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parcialParctico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practica1c3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practica1corte3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practicaArreglos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/primer-proyecto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ws-programacion-posada" vcs="Git" />
